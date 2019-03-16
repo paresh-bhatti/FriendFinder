@@ -8,8 +8,7 @@ FriendFinder is a full-stack site will take in results from the users' surveys, 
 
 Getting Started
 
-To view the site, visit http://friendfinder-paresh-bhatti.herokuapp.com/
-or https://secure-reaches-97099.herokuapp.com/
+To view the site, visit https://secure-reaches-97099.herokuapp.com/
 
 Technologies Used
 
