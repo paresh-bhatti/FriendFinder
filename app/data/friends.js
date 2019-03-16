@@ -47,7 +47,7 @@ var friends = [
     },
     {
       "name": "Friend Ten",
-      "photo": "https://paresh-bhatti.github.io/FriendFinder/app/assets/pics/pic10.jpg",
+      "photo": "/pics/pic10.jpg",
       "scores": [1, 3, 1, 2, 4, 4, 1, 5, 4, 4]
     },
   ]
