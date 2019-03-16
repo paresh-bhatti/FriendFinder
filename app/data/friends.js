@@ -2,8 +2,7 @@
 var friends = [
     {
       "name": "Friend One",
-      "photo": "/app/assets/pics/pic1.jpg
-      ",
+      "photo": "/app/assets/pics/pic1.jpg",
       "scores": [5, 2, 4, 2, 4, 3, 2, 2, 4, 5]
     },
     {
